@@ -1,3 +1,5 @@
+<a href="https://datahub.io/core/openflights"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+
 # OpenFlights
 
 Welcome to the code base for [OpenFlights](http://openflights.org), a tool that lets you map your flights around the world,
